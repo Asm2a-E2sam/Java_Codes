@@ -1,2 +1,1 @@
-"# pattern" 
-"# pattern" 
+Java codes
